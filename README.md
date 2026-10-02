@@ -2,8 +2,8 @@
 
 A Power BI dashboard that analyses 1,200 cybersecurity cases across 10 Indian cities from 2019 to 2024. The data was cleaned first (Excel, Power Query and a Python script), then the dashboard and DAX measures were built in Power BI.
 
-[cybersecurity dashboard](https://github.com/user-attachments/assets/...)
-## Project Goal
+![Dashboard](cybersecurity%20dashboard.png)
+   ## Project Goal
 Find out which attack types, cities and sectors have the most cases and the highest money lost.
 
 ## Tools Used
